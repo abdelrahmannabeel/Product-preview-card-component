@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [here](https://github.com/abdelrahmannabeel/Product-preview-card-component)
-- Live Site URL: [here]( https://abdelrahmannabeel.github.io/Product-preview-card-component/ )
+- Live Site URL: [here]( https://abdelrahmannabeel.github.io/Product-preview-card-component/)
 
 
 ## My process
